@@ -3,3 +3,4 @@ hello
 from test - main
 from main
 from test
+new line
